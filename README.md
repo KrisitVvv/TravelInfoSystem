@@ -1,7 +1,7 @@
 # <p align="center">TravelInfoSystem</p>
 ## Introduction
 This is my freshman university coursework,project by C language,just use black window.
-## Usage
+## Running
 I use Visual Studio 2022 to compile and run this project.You could download the source code and compile it by yourself.
 ## Effect
 ### Display
